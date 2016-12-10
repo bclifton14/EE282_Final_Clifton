@@ -1,0 +1,9 @@
+There are 1870 sequences in this assembly
+There are 143726002 nucleotides in this assembly
+There are 1152978 Ns in this assembly
+There are 7 sequences larger than 100,000bp in this assembly
+There are 137547960 nucleotides in the sequences larger than 100,000bp in this assembly
+There are 490385 Ns in the sequences larger than 100,000bp in this assembly
+There are 1863 sequences shorter than 100,000bp in this assembly
+There are 6178042 nucleotides in the sequences shorter than 100,000bp within this assembly
+There are 662593 Ns in the sequences shorter than 100,000bp within this assembly
